@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d140c8f6.css",
+    "main.js": "/static/js/main.cb74089b.js",
+    "static/js/239.dfdb0d71.chunk.js": "/static/js/239.dfdb0d71.chunk.js",
+    "static/js/977.2caed02d.chunk.js": "/static/js/977.2caed02d.chunk.js",
+    "static/js/455.814a5652.chunk.js": "/static/js/455.814a5652.chunk.js",
+    "static/media/mengenal-1.jpg": "/static/media/mengenal-1.b5bb9ef916a0a350e671.jpg",
+    "static/media/owner.jpg": "/static/media/owner.0fed86758bce0a628df4.jpg",
+    "static/media/mengenal-2.jpg": "/static/media/mengenal-2.637febd314ee8b346fc6.jpg",
+    "static/media/header.jpg": "/static/media/header.495f7f7c752aa5855d16.jpg",
+    "static/media/mengenal-3.jpg": "/static/media/mengenal-3.16c7579602f40030a84a.jpg",
+    "static/media/bg-tentang.jpg": "/static/media/bg-tentang.6adb6cf0ca24a956d790.jpg",
+    "static/media/header1.jpg": "/static/media/header1.f8953c82f8a67dce600d.jpg",
+    "static/media/dummyberita.png": "/static/media/dummyberita.44167b844431f66a80e6.png",
+    "static/media/cinta.jpg": "/static/media/cinta.286377846e0df0de4599.jpg",
+    "static/media/footer.png": "/static/media/footer.08225c47e163926276e1.png",
+    "static/media/dummyproduk.png": "/static/media/dummyproduk.7cc073a0492fd78155c4.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/logo.png": "/static/media/logo.9365ae4cd24828539cd7.png",
+    "index.html": "/index.html",
+    "main.d140c8f6.css.map": "/static/css/main.d140c8f6.css.map",
+    "main.cb74089b.js.map": "/static/js/main.cb74089b.js.map",
+    "239.dfdb0d71.chunk.js.map": "/static/js/239.dfdb0d71.chunk.js.map",
+    "977.2caed02d.chunk.js.map": "/static/js/977.2caed02d.chunk.js.map",
+    "455.814a5652.chunk.js.map": "/static/js/455.814a5652.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d140c8f6.css",
+    "static/js/main.cb74089b.js"
+  ]
+}
